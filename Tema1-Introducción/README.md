@@ -1,6 +1,6 @@
 # Tema1.Introducción
 ## Documentación
-### Francia Elena Loaiza Guevara
+### Hola mi nombre es: Francia Elena Loaiza Guevara
 Concepto personal sobre: "Tipos de Aprendizaje de IA"
 La inteligencia Artificial es una herramienta muy poderosa para el analisis y procesamiento de datos. Existen modelos de aprendizaje en IA que permiten un analisis más profundo con resultados o predicciones más acertadas que un usuario haya solicitado. Para lograrlo, existen varios de modelos el cual permiten que la IA obtenga buenos resultados:
 Aprendizaje Supervisado:
@@ -20,20 +20,25 @@ Apr. Por Refuerzo:
 Se presenta cuando el modelo aprende por refuerzos positivos o negativos (ensayo y error), aprende realizando acciones secuenciales. Por ejemplo una IA que aprende el juego del ajedrez.
 
 ETAPAS DEL DESARROLLO IA:
-* Inteligencia Artificial Estrecha (ANI):
-Se enfovca en tarreas repetitivas; por ejemplo los GPS, programas de musica que hacen recomendaciones, asistentes virtuales.
+* Inteligencia Artificial Estrecha (ANI-Artificial Narrow Intelligence):
+Sistemas diseñados para realizar tareas específicas con un alto nivel de eficacia
+Se enfoca en tareas repetitivas; por ejemplo los GPS, programas de musica que hacen recomendaciones, Asistentes virtuales (Siri, Alexa), reconocimiento facial, motores de búsqueda.
 
-* Inteligencia Artificia General (AGI)
-Se presenta cuando la maquina adquiere capacidades cognitivas humanas y realiza tareas humanas. Algunos expertos (Steve Wozniak, Elon Musk, Sam Altman) plantean riesgos para la humanidad
+* Inteligencia Artificia General (AGI-Artificial General Intelligence)
+Sistema capaz de realizar cualquier tarea intelectual que un humano pueda llevar a cabo, adquiere capacidades cognitivas humanas y realiza tareas humanas. Algunos expertos (Steve Wozniak, Elon Musk, Sam Altman) plantean riesgos para la humanidad, crear máquinas con razonamiento y comprensión general
 
-* Super Inteligencia Artificil (ASI)
-Esta etapa de la inteligencia artificial se torna se torna pelogrosa y nos pone en desventaja porque nostro ritmo de aprendizaje es demasiado lento, requerimos de altísimo entrenamiento y nos quedamos por por variables. No hay regulación jurídica y hasta la fecha todo esta en manos de la "ETICA" del hombre.
+* Super Inteligencia Artificil (ASI-Artificial Superintelligence)
+Sistemas que superan la inteligencia humana en todas las áreas, esta etapa de la inteligencia artificial se torna peligrosa y nos pone en desventaja porque nuestro ritmo de aprendizaje es demasiado lento, requerimos de altísimo entrenamiento y nos quedamos por variables. No hay regulación jurídica y hasta la fecha todo esta en manos de la "ETICA" del hombre. Ejemplo: IA que lidera avances científicos o tecnológicos sin intervención humana.
 
 SEGUNDA PARTE
 Ciclo de vida de una aplicación de aprendizaje de máquina:
-Identificación del problema
-Recolección de datos
-preparación de datos
-Ingeniería de modelos *
-Evaluación
-Despliegue, mantenimiento y actualización.
+Identificación del problema (clasificación, regresión, clustering)
+Recolección de datos (Obtener datos relevantes y de calidad para entrenar el modelo)
+preparación de datos (Asegurar que los datos sean utilizables por el modelo)
+Ingeniería de modelos 
+Exploración y Análisis de Datos (Análisis descriptivo y visualización (histogramas, correlaciones, Identificación de relaciones relevantes entre variables)
+Selección de modelo
+Evaluación del modelo
+Implementación
+Monitoreo y Mantenimiento
+Mejora continua
